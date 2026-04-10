@@ -10,8 +10,8 @@ This project focuses on analyzing customer behavior using Excel, with data trans
 - Is there a shift toward digital payment methods?
 - What proportion of customers are subscribed vs non-subscribed?
 
-- Dashboard Interaction 
-    
+- Dashboard Interaction
+  
 ## Key Insights
 - Identified distribution of customers across loyalty segments.
 - Observed different engagement levels based on purchase frequency.
