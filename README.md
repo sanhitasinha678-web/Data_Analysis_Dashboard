@@ -17,3 +17,5 @@ This project focuses on analyzing customer behavior using Excel, with data trans
 - Observed different engagement levels based on purchase frequency.
 - Highlighted customer preferences in payment methods and product categories.
 - Evaluated subscription adoption among customers.
+
+-- Dashboard <img width="1732" height="641" alt="Customer_Behaviour_Analysis_Dashboard" src="https://github.com/user-attachments/assets/ce108e6f-5c3d-4725-92ec-4499a61c672d" />
